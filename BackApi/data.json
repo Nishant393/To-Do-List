@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "product":"Boat Rockerz 550",
+        "price":"₹300",
+        "offer":"2%",
+        "company":"Boat",
+        "category":"slider",
+        "info":"",
+        "productUrl":"https://i.pinimg.com/564x/b8/9b/d4/b89bd46b0199b2e1fdea79370982ebcd.jpg",
+        "class":"active"
+    },
+    {
+        "id":2,
+        "product":"MI 32 HD Ready Smart LED TV",
+        "price":"₹12,990.00",
+        "offer":"5%",
+        "company":"MI",
+        "category":"slider",
+        "info":"info",
+        "productUrl":"https://i.pinimg.com/564x/b8/9b/d4/b89bd46b0199b2e1fdea79370982ebcd.jpg"
+    },
+    {
+        "id":3,
+        "product":"Dell Inspiron 15 Laptop 15.6 inch FHD Touchscreen Intel Core i7-1355U",
+        "price":"₹44,889.00",
+        "offer":"5%",
+        "company":"Dell",
+        "category":"slider",
+        "info":"info",
+        "productUrl":"https://i.pinimg.com/564x/b8/9b/d4/b89bd46b0199b2e1fdea79370982ebcd.jpg"
+    },
+    {
+        "id":4,
+        "productName":"Dell Inspiron 15 Laptop 15.6 inch FHD Touchscreen Intel Core i7-1355U",
+        "price":"₹44,889.00",
+        "offer":"5%",
+        "company":"Dell",
+        "category":"slider",
+        "info":"info",
+        "productUrl":"https://i.pinimg.com/564x/b8/9b/d4/b89bd46b0199b2e1fdea79370982ebcd.jpg"
+    }
+]
